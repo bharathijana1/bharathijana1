@@ -30,7 +30,7 @@ You can click the Preview link to take a look at your changes.
 
 📄 Check out my [Portfolio](https://portfolio-bharathi.netlify.app/)  
 
-📄 Check out my [LinkedIn](www.linkedin.com/in/bharathijanarthanan12https://www.linkedin.com/in/bharathijanarthanan12/)  
+📄 Check out my [LinkedIn](https://www.linkedin.com/in/bharathijanarthanan12/)  
     
 💻 All of my projects are available at My [Projects](https://github.com/bharathijana1)  
   
