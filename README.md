@@ -26,7 +26,7 @@ You can click the Preview link to take a look at your changes.
 
 🔭 I’m currently preparing for placements!  
   
-📄 Check out my [Resume](https://drive.google.com/drive/folders/1NynIn6Y8S0hoP8yzwUmf6fysucgHnXk9/view)  
+📄 Check out my [Resume](https://drive.google.com/file/d/16WbIucINjHblN2WbmENv-Lp-6bPADWy_/view?usp=sharing)  
 
 📄 Check out my [Portfolio](https://portfolio-bharathi.netlify.app/)  
 
