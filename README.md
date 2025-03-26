@@ -26,7 +26,7 @@ You can click the Preview link to take a look at your changes.
 
 🔭 I’m currently preparing for placements!  
   
-📄 Check out my [Resume](https://drive.google.com/file/d/16WbIucINjHblN2WbmENv-Lp-6bPADWy_/view?usp=sharing)  
+📄 Check out my [Resume](https://drive.google.com/file/d/1o02l9B74zVlW40GqGHrWIrKawzfWBKP1/view?usp=sharing)  
 
 📄 Check out my [Portfolio](https://portfolio-bharathi.netlify.app/)  
 
@@ -36,7 +36,7 @@ You can click the Preview link to take a look at your changes.
   
 💬 Ask me about HTML, CSS, Tailwind, Bootstrap, JavaScript, React
   
-📫 How to reach me: bharathi.jana01@gmail.com 
+📫 How to reach me: bharathi.janarthanan2002@gmail.com 
 
 
 <br/>
